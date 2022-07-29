@@ -1,1 +1,1 @@
-> Jangan di pake jelek
+npm run start
